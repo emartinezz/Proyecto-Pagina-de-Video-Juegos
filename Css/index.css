@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+body{
+    background-color: rgb(229 ,231, 235);
+}
+
+#flecha{
+transform: rotate(180deg);
+height: 25px;
+}
+#Saltar{
+    font-family: 'Orelega One', cursive; 
+}
+.container{
+ display: flex;  
+ justify-content: space-between;
+ padding: 20px 17px;
+}
+#mando {
+    margin: 40px 50px 15px 50px;
+}
+#texto{
+    padding: 0 10px;
+    text-align: justify;
+}
+#titulo{
+    text-align: center;
+    padding-bottom: 15px;
+    font-family: 'Secular One', sans-serif;
+}
+#boton{
+    background: rgb(61, 192, 227);
+    border-radius: 8px;
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 30px 230px;
+    font-family: 'Secular One', sans-serif;
+}
+h2{
+ color: red;   
+}
+span{
+    color: rgb(250, 189, 5);
+}
+#next{
+    color: rgb(229 ,231, 235);
+}
